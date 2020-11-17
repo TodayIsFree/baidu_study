@@ -1,0 +1,8 @@
+第一天：为何学习前端
+https://www.w3school.com.cn/html/index.asp
+第二天：做一个简历
+什么是html，html元素标签，web语义化
+第三天：增加色彩
+css如何工作，css选择器 https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works
+第四天：背景边框列表链接和更复杂的选择器
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements
