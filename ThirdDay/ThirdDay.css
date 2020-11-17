@@ -1,0 +1,22 @@
+h1 {
+    /* 设置了字的大小，px是单位，你可以尝试改成其它大小 */
+    font-size: 30px;
+    text-align:center;
+  }
+  h2{
+    font-style:italic;
+    text-shadow: 5px 5px 5px #FF0000;
+  }
+  dt{
+    /* 设置了字的颜色，你可以尝试改成yellow */
+    color: red;
+    font-style:oblique;
+  }
+  li{
+    font-weight:bold;
+    text-indent:50px;
+    line-height:200%
+  }
+  #btn{
+    text-decoration:underline
+  }
